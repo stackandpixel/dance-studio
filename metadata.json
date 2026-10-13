@@ -1,0 +1,6 @@
+{
+  "name": "Rhythm Republic Dance Studio",
+  "description": "Premium Indian dance academy in Baner, Pune. Bollywood, Hip-Hop, Contemporary, Indian Classical, and Wedding Choreography classes with instant WhatsApp enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
